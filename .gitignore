@@ -1,0 +1,5 @@
+/target/
+/bin/
+/.apt_generated/
+
+/target/classes/META-INF/maven/com.oosd/GameOOSD/pom.xml
